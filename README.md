@@ -1,3 +1,3 @@
 # 2D_unity_MainMenu
 
-![main menu](screenshots/main_menu.png)
+![main menu](Assets/Screenshots/Main_menu.png)
